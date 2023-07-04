@@ -10,7 +10,7 @@ nombre:"",
 imagen:"",
 stock:0,
 precio:0,
-url:'http://cristiannolguin.pythonanywhere.com/productos/'+id,
+url:'https://cristiannolguin.pythonanywhere.com/productos/'+id,
 }
 },
 methods: {
